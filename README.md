@@ -11,6 +11,9 @@ The **Programmatic SEO Analyzer** is a WordPress plugin that helps analyze SEO m
 - REST API endpoint for developers to retrieve analysis programmatically.
 - **Sortable columns and pagination for large datasets** in the frontend table.
 
+![ezcv logo1](https://i.ibb.co/kV8fPKsT/WPProgrammatic-SEO.png)
+![ezcv logo2](https://i.ibb.co/Nn1BbWZG/WPProgrammatic-SEO1.png)
+
 ---
 
 ## Installation
